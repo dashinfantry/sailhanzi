@@ -5,62 +5,62 @@
     <name>CoverPage</name>
     <message>
         <source>SailHanzi</source>
-        <translation type="unfinished"></translation>
+        <translation>航海漢字</translation>
     </message>
 </context>
 <context>
     <name>MainPage</name>
     <message>
         <source>Convert</source>
-        <translation type="unfinished"></translation>
+        <translation>轉換</translation>
     </message>
     <message>
         <source>SailHanzi</source>
-        <translation type="unfinished"></translation>
+        <translation>航海漢字</translation>
     </message>
     <message>
         <source>Simplified</source>
-        <translation type="unfinished"></translation>
+        <translation>簡體漢字</translation>
     </message>
     <message>
         <source>Traditional</source>
-        <translation type="unfinished"></translation>
+        <translation>傳統漢字</translation>
     </message>
     <message>
         <source>Taiwanese</source>
-        <translation type="unfinished"></translation>
+        <translation>中國台灣</translation>
     </message>
     <message>
         <source>Hong Kong</source>
-        <translation type="unfinished"></translation>
+        <translation>中國香港</translation>
     </message>
     <message>
         <source>Translate idioms</source>
-        <translation type="unfinished"></translation>
+        <translation>翻譯習慣用語</translation>
     </message>
     <message>
         <source>Enables translation of Mainland Chinese idioms into Taiwanese and vice versa.</source>
-        <translation type="unfinished"></translation>
+        <translation>開啓中國大陸與台灣地區之間習慣用語相互轉換</translation>
     </message>
     <message>
         <source>From          ​​</source>
-        <translation type="unfinished"></translation>
+        <translation>从          ​​</translation>
     </message>
     <message>
         <source>To          </source>
-        <translation type="unfinished"></translation>
+        <translation>到</translation>
     </message>
     <message>
         <source>Enter Chinese text to convert...</source>
-        <translation type="unfinished"></translation>
+        <translation>輸入漢語文本以轉^……</translation>
     </message>
     <message>
         <source>Source text</source>
-        <translation type="unfinished"></translation>
+        <translation>源文本</translation>
     </message>
     <message>
         <source>Conversion results</source>
-        <translation type="unfinished"></translation>
+        <translation>轉換結果</translation>
     </message>
 </context>
 </TS>
